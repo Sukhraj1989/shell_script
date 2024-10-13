@@ -1,0 +1,12 @@
+read -p "enter the name" aa
+read -p "enter the seconf name" bb
+echo "$aai"
+echo "$bb"
+
+if [[ $bb == "ajit" ]];
+then
+        echo "yes its true"
+else
+        echo "then its Sukhraj"
+fi
+        echo "get out"
